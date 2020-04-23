@@ -70,6 +70,8 @@ https://edgejt6.useetv.com/joss/14/jaktv/chunklist_w1255659419_b684100_sleng_.m3
 https://edgejt6.useetv.com/joss/14/tv9/chunklist_w2040280835_b684100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png" group-title="USEETV",DAAI TV
 https://vcdnjt.useetv.com/joss/14/daaitv/chunklist_w1534651139_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="USEETV",TAWAF TV
+https://vcdnjt.useetv.com/joss/14/tawaftv/chunklist_w815798736_b684100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="USEETV",ALQURAN
 https://cdnbal1.useetv.com/joss/14/alquran/chunklist_w142141588_b684100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png" group-title="USEETV",ALJAZEERA
