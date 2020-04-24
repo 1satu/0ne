@@ -215,5 +215,13 @@ https://cdnmdc1.useetv.com/joss/15/fashionone/chunklist_w1136695290_b1344100_sle
 https://vcdnjt.useetv.com/joss/15/dreamworks/chunklist_w1002961778_b684100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png" group-title="LOCAL",EDUKASI
 https://cdnmdc1.useetv.com/joss/14/tvedukasi/chunklist_w13193120_b684100_sleng_.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png" group-title="ENTERTAINMENT",DUNIA LAIN
+https://edgejt6.useetv.com/joss/14/dunialain/chunklist_w5947292_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png" group-title="LOCAL",INSERT
+https://cdnbdsa1.useetv.com/joss/14/insert/chunklist_w1441847007_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="KIDS",DUNIA ANAK
+https://cdnkbl1.useetv.com/joss/14/duniaanak/chunklist_w1967643430_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png" group-title="LIFESTYLE",EAT&GO
+https://edgejt6.useetv.com/joss/14/eatgo/chunklist_w844787668_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES",CINEMA WOLRD
+https://cdnmdc2.useetv.com/joss/14/cinemaworld/chunklist_w442636278_b684100_sleng_.m3u8
