@@ -235,3 +235,5 @@ https://cdnkbl2.useetv.com/joss/14/cartoonnetwork/chunklist_w778870228_b684100_s
 https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=1-mp4a_64000=2.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mqtv_small1.png" group-title="RELIGI",MQTV
 https://edgejt7.useetv.com/joss/14/mqtv/chunklist_w771239910_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="NEWS",CNN INTERNATIONAL
+https://cdnmdc2.useetv.com/joss/15/cnninternational/chunklist_w130418279_b1344100_sleng_500058.m3u8
