@@ -12,7 +12,7 @@ https://cdnbdsa1.useetv.com/joss/15/transtv/chunklist_w1034088746_b1344100_sleng
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="LOCAL",TRANS7
 https://cdnjt25.useetv.com/joss/15/trans7/chunklist_w90252140_b894100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg" group-title="LOCAL",MNCTV
-https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_1000000=1-mp4a_64000=2.m3u8
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="LOCAL",METROTV
 https://cdnbpp1.useetv.com/joss/15/metrotv/chunklist_w29865048_b1344100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="LOCAL",TVONE
