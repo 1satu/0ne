@@ -232,7 +232,7 @@ https://cdnbpp1.useetv.com/joss/14/citradangdut/chunklist_w1630106381_b684100_sl
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS",CARTOON NETWORK
 https://cdnkbl2.useetv.com/joss/14/cartoonnetwork/chunklist_w778870228_b684100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKv6905z/globalTV.jpg" group-title="LOCAL",GLOBAL TV
-https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=1-mp4a_64000=2.m3u8
+https://linier3.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1.m3u8?auth_key=1591267135-0-0-c836ff17fc814782532d00d9ccbdeeee
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mqtv_small1.png" group-title="RELIGI",MQTV
 https://edgejt7.useetv.com/joss/14/mqtv/chunklist_w771239910_b684100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="NEWS",CNN INTERNATIONAL
