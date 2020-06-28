@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="LOCAL",INDOSIAR
-https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_.m3u8
+https://cdngb196.useetv.com/joss/15/indosiar/chunklist_w186476536_b894100_sleng.m3u8?enc=nJ--9kVPdtREWWgZmBVJXA&exp=1593321126
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="LOCAL",ANTV
 https://cdnbpp1.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="LOCAL",SCTV
-https://cdnmdc1.useetv.com/joss/15/sctv/chunklist_w1626501149_b1344100_sleng_.m3u8
+https://cdngb196.useetv.com/joss/15/sctv/chunklist_w809990870_b894100_sleng.m3u8?enc=l7nt4c7BXB5o3D4gxfnDsg&exp=1593321550
 #EXTINF:-1 tvg-logo="https://imgshare.io/images/2019/09/30/rcti.png" group-title="LOCAL",RCTI
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="LOCAL",TRANSTV
-https://cdnbdsa1.useetv.com/joss/15/transtv/chunklist_w1034088746_b1344100_sleng_.m3u8
+https://cdngb196.useetv.com/joss/15/transtv/chunklist_w1854779700_b894100_sleng.m3u8?enc=C7T-NXWOIPFSqqGsH67i_Q&exp=1593321623
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="LOCAL",TRANS7
-https://cdnjt25.useetv.com/joss/15/trans7/chunklist_w90252140_b894100_sleng_.m3u8
+https://cdngb196.useetv.com/joss/15/trans7/chunklist_w1301997667_b894100_sleng.m3u8?enc=PxrF3OPo3mD-QUkFbWb1UQ&exp=1593321705
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg" group-title="LOCAL",MNCTV
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="LOCAL",METROTV
-https://cdnbpp1.useetv.com/joss/15/metrotv/chunklist_w29865048_b1344100_sleng_.m3u8
+https://cdngb196.useetv.com/joss/15/metrotv/chunklist_w1695534357_b894100_sleng.m3u8?enc=-fwER25oHZikvDWimRIQHw&exp=1593321793
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="LOCAL",TVONE
 https://cdnbal1.useetv.com/joss/15/tvone/chunklist_w92371443_b894100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small1.png" group-title="LOCAL",KOMPASTV
@@ -128,7 +128,7 @@ https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w765194838_b684100_sle
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_small.png" group-title="MUSIC",MTV LIVE
 https://vcdnjt.useetv.com/joss/15/mtvlive/chunklist_w152024539_b1344100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png" group-title="LOCAL",JTV
-https://cdnbdsa1.useetv.com/joss/14/jtv/chunklist_w1657643653_b684100_sleng_.m3u8
+https://cdngb196.useetv.com/joss/18/jtv/chunklist_w868089393_b684100_sleng.m3u8?enc=y-RDwmF6f3wgmjmdH2DPCw&exp=1593321926
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="LOCAL",NET TV
 https://cdnkbl1.useetv.com/joss/15/net/chunklist_w608005685_b1344100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="SPORT",BEINS 1
@@ -174,7 +174,7 @@ https://edgejt7.useetv.com/joss/14/eljohn/chunklist_w1884298693_b944100_sleng_.m
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_allegro_small1.png" group-title="MUSIC",T-MUSIC
 https://cdnmdc2.useetv.com/joss/14/tmusic/chunklist_w399852158_b684100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="MOVIES",BIOSKOP INDONESIA
-https://cdnbal1.useetv.com/joss/18/bioskopindonesia/chunklist_w583165397_b684100_sleng_.m3u8
+https://cdngb196.useetv.com/joss/18/bioskopindonesia/chunklist_w361089698_b684100_sleng.m3u8?enc=gtfWClBA1xbafqg80LE39A&exp=1593322050
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png" group-title="ENTERTAINMENT",CHINA DRAMA
 https://cdnkbl2.useetv.com/joss/14/chinesedrama/chunklist_w1496133262_b684100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" group-title="ENTERTAINMENT",KBS WORLD
